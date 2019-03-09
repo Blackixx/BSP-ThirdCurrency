@@ -1,0 +1,7 @@
+name: ThirdCurrency
+version: ${project.version}
+description: BossShopPro Addon - Adds support for a third economy plugin
+author: Black_ixx
+website: http://felix.neuby.de
+main: org.black_ixx.bossshop.addon.thirdcurrency.ThirdCurrency
+depend: [BossShopPro]

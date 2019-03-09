@@ -1,0 +1,64 @@
+v1.2.0
+*[NOTE] Still compatible with older Spigot builds (1.7 and above)
+*[UPDATE] Update for Spigot 1.13.*
+
+
+v1.1.4 (Needs BossShopPro v1.9.5 or higher)
+*[UPDATE] Updated to BossShopPro v1.9.5
+
+
+v1.1.3 (Needs BossShopPro v1.6.5 or higher)
+*[UPDATE] Updated to BossShopPro v1.6.5
+
+
+v1.1.2 (Needs BossShopPro v1.6.1 or higher)
+*[UPDATE] Updated to BossShopPro v1.6.1
+
+
+v1.1.1 (Needs BossShopPro v1.5.4 or higher)
+*[NOTE] Requires old configurations to be adapted to the new structure (takes a few seconds)
+*[ADD] Added support for an infinite amount of points plugins
+
+
+v1.1.0 (Needs BossShopPro v1.5.2 or higher)
+*[UPDATE] Updated to BossShopPro v1.5.2
+
+
+v1.0.9 (Needs BossShopPro v1.4.9 or higher)
+*[UPDATE] Updated to BossShopPro v1.4.9
+
+
+v1.0.8 (Needs BossShopPro v1.4.2 or higher)
+*[UPDATE] Updated to BossShopPro v1.4.2
+
+
+v1.0.7 (Needs BossShopPro v1.2.6 or higher)
+*[UPDATE] Updated to BossShopPro v1.2.6
+
+
+v1.0.6 (Needs BossShopPro v1.2.3 or higher)
+*[UPDATE] Updated to BossShopPro v1.2.3
+
+
+v1.0.5 (Needs BossShopPro v1.1.9 or higher)
+*[UPDATE] Updated to BossShopPro v1.1.9
+
+
+v1.0.4 (Needs BossShopPro v1.1.1 or higher)
+*[UPDATE] Updated to BossShopPro v1.1.1
+
+
+v1.0.3
+*[IMPROVE] Some number display improvements
+
+
+v1.0.2 (Needs BossShopPro v1.0.7 or higher)
+*[UPDATE] Updated to BossShopPro v1.0.7
+
+
+v1.0.1 (Needs BossShopPro v1.0.3 or higher):
+*[ADD] Points can be formatted now (Configurable; Showing for example '10k' instead of '10024')
+
+
+v1.0.0:
+* First release
